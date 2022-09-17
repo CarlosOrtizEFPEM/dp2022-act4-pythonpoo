@@ -1,5 +1,4 @@
 # dp2022-act4-pythonpoo
-# dp2022-act4-pythonpoo
 Ejemplos de POO con Python
 12/08/2022
 
